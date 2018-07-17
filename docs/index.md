@@ -4,7 +4,9 @@
 
 <figure>
 
+
 ![https://carpenter.center/program/act-up-new-york-activism-art-and-the-aids-crisis-1987-1993i](imgs/silence_death.jpg)
+
 
 <figcaption>
 
