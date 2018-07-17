@@ -4,7 +4,7 @@
 
 <figure>
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+![https://carpenter.center/program/act-up-new-york-activism-art-and-the-aids-crisis-1987-1993i](imgs/silence_death.jpg)
 
 <figcaption>
 
