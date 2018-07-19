@@ -1,6 +1,6 @@
 # Source Analysis
 
-![http://actuporalhistory.org/interviews/index.html](ACTUP_site.PNG)
+![http://actuporalhistory.org/interviews/index.html](imgs/ACTUP_site.PNG)
 
 ## Basic Source Information
 
