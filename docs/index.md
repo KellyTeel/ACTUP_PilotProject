@@ -9,7 +9,7 @@
 
 
 * Catherine Cueto(mailto:calesandrini@mail.usf.edu): Background, Inital Findings, Reflections, Visualizations
-* Kelly Teel(mailto:kellyteel@mail.usf.edu): Source Analysis, Workflow, Bibliography and Citations, Visualizations
+* Kelly Teel(mailto:kellyteel@mail.usf.edu): Source Analysis, Workflow, Bibliography and Credits, Visualizations
 
 
 ---
