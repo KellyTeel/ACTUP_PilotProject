@@ -45,8 +45,13 @@ Globalization*. New York: Verso, 2002.
 
 ## Project Credits
 
+
 * [Catherine Cueto](mailto:calesandrini@mail.usf.edu): Background, Initial Findings, Reflections, Visualizations
 * [Kelly Teel](mailto:kellyteel@mail.usf.edu): "Group Leader," Source Analysis, Workflow, Bibliography and Credits, Visualizations
+=======
+
+
+
 
 ---
 
