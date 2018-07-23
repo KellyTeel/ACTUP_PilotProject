@@ -14,7 +14,7 @@
 
 ---
 
-For our Pilot Project, we decided that we wanted to unearth and examine a dataset relating to the history of the LGBTQ+ community. Being a marginalized group for so long, there is so much history that has yet to be porperly examined. With this in mind, we determined that the ACT UP Oral History Project created by Sarah Schulman and Jim Hubbard was the perfect digital source to analyze for our project. The coordinators worked for approximately ten years collecting oral histories from previous ACT UP, New York memebers, adding a trascript and basic information to these entries as they went. Being familiar with the ACT UP movement, we were excited to analyze the personal testimonies of indiviuals within the organization, hoping to uncover a more cohesive understanding of the lives of these brave activists.
+For our Pilot Project, we decided that we wanted to unearth and examine a dataset relating to the history of the LGBTQ+ community. Being a marginalized group for so long, there is so much history that has yet to be properly examined. With this in mind, we determined that the ACT UP Oral History Project created by Sarah Schulman and Jim Hubbard was the perfect digital source to analyze for our project. The coordinators worked for approximately ten years collecting oral histories from previous ACT UP, New York members, adding a transcript and basic information to these entries as they went. Being familiar with the ACT UP movement, we were excited to analyze the personal testimonies of individuals within the organization, hoping to uncover a more cohesive understanding of the lives of these brave activists.
 
 ---
 
