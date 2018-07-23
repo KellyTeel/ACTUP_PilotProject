@@ -17,7 +17,7 @@ From those txt files we were able to upload them into [Orange Three](https://ora
 
 Once we received the txt files Catherine attempted to put them into Tableau, however it turned out that it was initially incompatable. She then attempted to use Gephi, which also failed. Realizing that we needed to put the data into a format that could be read by Tableau, she put the files into Orange 3 and then attached them to pre-process text and from there we were able to receive outputs of data. She then saved that data as a CSV file and uploaded it into Tableau. While attempting to do all of these things, Catherine's computer repeatedly shut down and provided to be very difficult for her.
 
-![image](imgs/w3.PNG)
+![image](imgs/w3.png)
 
 In Voyant, Kelly tried various different configurations and visualizations to extract information from the collection of transcripts. Unlike with Orange 3, there wasn't any obvious way to add stop-words to the data, meaning that appreviations like "SS" and common, formal words such as "like" were included in word  counts and links, leading to  some less than useful visualizations. None the less, she still managed to produce a couple very helpful tables and visuals, as seen in the "Inital Findings" page.
 
