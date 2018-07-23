@@ -8,7 +8,8 @@
 * Our chosen source was taken directly from the [ACTUP Oral History Project website](http://actuporalhistory.org).
 * The source is specifically  a collection of transcripts from interviews taken place between 2002 and 2015.
 * The project was coordinated by filmmaker Jim Hubbard and Humanities Professor Sarah Schulman. The host for the source is MIX, or the New York Queer Experimental Film Festival. 
-=======
+
+
 
 
 ---
