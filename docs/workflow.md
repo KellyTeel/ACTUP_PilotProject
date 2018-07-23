@@ -3,7 +3,6 @@
 
 
 The overall process of our project was a long series of trails and errors, as is most projects in the field of Digital Humanities. Through this process we encountered many successes, but even more failures. In general, both Catherine and Kelly worked together to create various visualizations with the data provided by David Thomas. Individually  they analyzed these visualizations, coming to a general conclusion about the data from the [ACTUP Oral History Project](http://actuporalhistory.org/index1.html).
-=======
 
 
 ---
