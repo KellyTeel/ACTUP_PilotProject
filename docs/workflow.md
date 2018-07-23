@@ -13,27 +13,18 @@ As stated previously, when deciding on a topic to persure for our  Pilot Project
 
 ![image](imgs/w2.PNG)
 
-From those txt files we were able to upload them into Orange Three and Voyant. Catherine tackled Orange 3, while Kelly used Voyant. 
+From those txt files we were able to upload them into [Orange Three](https://orange.biolab.si) and [Voyant](http://voyant-tools.org/). Catherine tackled Orange 3, while Kelly used Voyant.
 
-In [Voyant](http://voyant-tools.org/), Kelly tried various different configurations and visualizations to extract information from the collection of transcripts. Unlike with Orange 3, there wasn't any obvious way to add stop-words to the data, meaning that appreviations like "SS" and common, formal words such as "like" were included in word  counts and links, leading to  some less than useful visualizations. None the less, she still managed to produce a couple very helpful tables and visuals, as seen in the "Inital Findings" page.
+Once we received the txt files Catherine attempted to put them into Tableau, however it turned out that it was initially incompatable. She then attempted to use Gephi, which also failed. Realizing that we needed to put the data into a format that could be read by Tableau, she put the files into Orange 3 and then attached them to pre-process text and from there we were able to receive outputs of data. She then saved that data as a CSV file and uploaded it into Tableau. While attempting to do all of these things, Catherine's computer repeatedly shut down and provided to be very difficult for her.
+
+![image](imgs/w3.PNG)
+
+In Voyant, Kelly tried various different configurations and visualizations to extract information from the collection of transcripts. Unlike with Orange 3, there wasn't any obvious way to add stop-words to the data, meaning that appreviations like "SS" and common, formal words such as "like" were included in word  counts and links, leading to  some less than useful visualizations. None the less, she still managed to produce a couple very helpful tables and visuals, as seen in the "Inital Findings" page.
 
 ![image](imgs/v4.PNG)
 
 ![image](imgs/v5.PNG)
 
-The data derived was successfully uploaded into Tableau and was analyzed using a sentiment analysis tool. Below we will discuss the various approaches we used to derive data and meaning from the original txt files.
+In summary, the overall workflow of this project was a primarily even split between both group memebers. Each one of us taking a program we were most comforable with and attempting to extract what we could from the program. Although the results weren't all  we hoped they would be, we both still learned a great deal from trial and error. In terms of analyzing the data we found, both Catherine and Kelly read over and discussed the various visualizations each had created. We decided that the visualizations that held the most weight came from Catherine's work with Orange3 and Tableu, although Voyant was far easier to use. 
 
-Discuss (in detail) the processes of
 
-* Getting the data
-* Cleaning/altering the data
-* Visualizing the data
-* Discussing and sharing results with group members
-
-What you need to cover: Talk about every step in your process, talk about how and why you made the decisions that you did. Why did you pick the website that you did? Did you download every record, or just some? Did you download the data directly from the website, or did you use a tool like Webscraper.io? Did you use OpenRefine to change the raw data in some form, and if so, why did you change it the way you did? What program(s) or techniques did you decide on to visualize or analyze it? Why did you feel those programs (e.g. Tableau or Gephi) were better than other options, given your research interest? Did you have to do anything to the data inside Tableau?
-
-To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
-
-Take plenty of screenshots to document your process...
-    * **Mac** press 'command' + 'shift' + '4' and then drag a rectangle to take a screenshot of whatever you select... On
-    * **Windows**, click the 'Start' button then type 'Snipping' and select Snipping Tool, then click 'New' and drag a rectangle to take a screenshot of whatever you select.
